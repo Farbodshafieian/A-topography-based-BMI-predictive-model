@@ -1,4 +1,4 @@
-## TOPF-Based Feature Extraction and Modeling
+## TOPF-Based Modeling
 
 Steps:
 1. Apply PCA across subjects on parcellated fMRI data (region × time matrix).
