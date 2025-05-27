@@ -1,7 +1,7 @@
 ## TOPF-Based Modeling
 
 Steps:
-1. Apply PCA across subjects on parcellated fMRI data (region × time matrix).
+1. Apply PCA across subjects on parcellated fMRI data.
 2. Extract individual-specific PC1 loadings (topographic maps).
 3. Train ridge regression models to predict BMI from PC1 loadings.
 4. Use permutation-based importance to assess region-level contributions.
